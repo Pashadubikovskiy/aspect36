@@ -1,0 +1,36 @@
+.footer {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  left: 0px;
+  top: 2956px;
+  background-color: black;
+  padding: 0 0 20px 0;
+  border-top: 2px solid blue;
+}
+
+.block {
+  align-items: center;
+  width: 450px;
+  height: 69px;
+  top: 2956px;
+  margin-left: 519px;
+  margin-top: 20px;
+}
+.text {
+  color: white;
+  font-family: "Suisse Works";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 170.52%;
+
+  text-align: center;
+  text-transform: uppercase;
+}
+.text span {
+  padding: 0 10px;
+}
+.text p {
+  padding-bottom: 5px;
+}
