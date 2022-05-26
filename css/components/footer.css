@@ -6,13 +6,13 @@
   text-align: center;
 }
 
-.block {
+.footer_block {
   width: 450px;
   height: 69px;
   margin-left: auto;
   margin-right: auto;
 }
-.text {
+.footer_text {
   color: white;
   font-weight: 500;
   font-size: 16px;
@@ -20,9 +20,16 @@
   text-align: center;
   text-transform: uppercase;
 }
-.text span {
+.footer_text span {
   padding: 0 10px;
 }
-.text p {
+.footer_text p {
   margin-bottom: 24px;
+}
+.footer_logo {
+  text-decoration: none;
+  color: white;
+}
+.footer_logo:hover {
+  opacity: 0.5;
 }

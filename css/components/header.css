@@ -33,6 +33,7 @@
   letter-spacing: 0.11em;
   text-transform: uppercase;
   color: #ffffff;
+  text-decoration: none;
 
   left: 50%;
   top: 50%;
@@ -47,4 +48,14 @@
 
   display: flex;
   align-items: center;
+}
+
+.nav li :hover {
+  opacity: 0.5;
+}
+.logo:hover {
+  opacity: 0.5;
+}
+.icon :hover {
+  opacity: 0.5;
 }
