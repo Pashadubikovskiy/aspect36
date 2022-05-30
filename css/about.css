@@ -1,10 +1,6 @@
 .frame2 {
-  font-weight: 700;
-  font-size: 12px;
-  line-height: 16px;
   text-transform: uppercase;
   padding: 20px 60px;
-
   color: #fff;
 }
 .frame2 a {
@@ -13,17 +9,13 @@
 }
 .frame2 span {
   padding: 0 10px;
-  color: #b4b4b4;
 }
 
-.about {
-  color: #b4b4b4;
-}
 .img_title {
   max-width: 450px;
   padding-left: 60px;
   text-align: center;
-  font-style: normal;
+
   font-weight: 400;
   font-size: 24px;
   line-height: 34px;
@@ -38,7 +30,6 @@
   padding-bottom: 60px;
   font-weight: 500;
   font-size: 18px;
-  line-height: 34px;
 }
 
 .main_title1 {
@@ -46,7 +37,6 @@
   font-size: 36px;
   line-height: 47px;
   text-align: center;
-  text-transform: uppercase;
   padding: 20px;
   color: #ffffff;
 }
@@ -71,7 +61,6 @@
 
 .text {
   position: absolute;
-  justify-content: space-between;
   padding-left: 550px;
 }
 

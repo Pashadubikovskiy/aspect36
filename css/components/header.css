@@ -6,6 +6,7 @@
   padding: 20px 40px;
   position: sticky;
   top: 0;
+  z-index: 1;
 }
 
 .nav li {
@@ -59,4 +60,3 @@
 .icon :hover {
   opacity: 0.5;
 }
-
