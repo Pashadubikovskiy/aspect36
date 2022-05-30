@@ -105,6 +105,6 @@
   text-align: center;
 }
 
-.footer_img svg {
-  margin: 13px;
+.footer_img img {
+  padding: 0 10px;
 }
