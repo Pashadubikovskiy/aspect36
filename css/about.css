@@ -1,0 +1,95 @@
+.frame2 {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  padding: 20px 60px;
+
+  color: #fff;
+}
+.frame2 a {
+  text-decoration: none;
+  color: #b4b4b4;
+}
+.frame2 span {
+  padding: 0 10px;
+  color: #b4b4b4;
+}
+
+.about {
+  color: #b4b4b4;
+}
+.img_title {
+  max-width: 450px;
+  padding-left: 60px;
+  text-align: center;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+  text-transform: uppercase;
+  color: #ededed;
+}
+.img_title h2 {
+  padding-top: 26px;
+}
+
+.img_title p {
+  padding-bottom: 60px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 34px;
+}
+
+.main_title1 {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 47px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.main_title2 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 158.02%;
+  text-align: center;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.footer_img {
+  padding: 22px;
+  text-align: center;
+}
+
+.footer_img img {
+  padding: 0 10px;
+}
+
+.text {
+  position: absolute;
+  justify-content: space-between;
+  padding-left: 550px;
+}
+
+.title {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 47px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.text p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 206.02%;
+  padding: 30px 0;
+  color: #ffffff;
+  padding-right: 60px;
+}
