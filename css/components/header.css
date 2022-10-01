@@ -22,7 +22,7 @@
 
 .nav a {
   padding: 0 13px;
-  color: #ededed;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -51,7 +51,7 @@
   align-items: center;
 }
 
-.nav li :hover {
+.nav li a:hover {
   opacity: 0.5;
 }
 .logo:hover {

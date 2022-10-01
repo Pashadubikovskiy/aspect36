@@ -1,84 +1,90 @@
-.frame2 {
+.about {
+  color: white;
+}
+/* about_direction (SVG) */
+
+.about_direction {
+  padding: 30px 60px;
   text-transform: uppercase;
-  padding: 20px 60px;
-  color: #fff;
 }
-.frame2 a {
-  text-decoration: none;
-  color: #b4b4b4;
+.about_direction svg {
+  margin: 0 10px;
 }
-.frame2 span {
-  padding: 0 10px;
+.active:first-child {
+  color: #bb9e84;
 }
+/* about_container */
 
-.img_title {
-  max-width: 450px;
-  padding-left: 60px;
-  text-align: center;
-
-  font-weight: 400;
+.about_container {
+  display: flex;
+  padding: 30px 60px 60px 60px;
+}
+.about_item {
+}
+.about_item_image {
+  margin: 0 0 26px 0;
+}
+.about_name {
   font-size: 24px;
-  line-height: 34px;
+  text-align: center;
   text-transform: uppercase;
-  color: #ededed;
+  margin: 0 0 10px 0;
 }
-.img_title h2 {
-  padding-top: 26px;
-}
-
-.img_title p {
-  padding-bottom: 60px;
-  font-weight: 500;
+.about_text {
   font-size: 18px;
-}
-
-.main_title1 {
-  font-weight: 400;
-  font-size: 36px;
-  line-height: 47px;
   text-align: center;
-  padding: 20px;
-  color: #ffffff;
-}
-
-.main_title2 {
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 158.02%;
-  text-align: center;
-  padding: 20px;
-  color: #ffffff;
-}
-
-.footer_img {
-  padding: 22px;
-  text-align: center;
-}
-
-.footer_img img {
-  padding: 0 10px;
-}
-
-.text {
-  position: absolute;
-  padding-left: 550px;
-}
-
-.title {
-  font-weight: 400;
-  font-size: 36px;
-  line-height: 47px;
-  /* identical to box height */
-
   text-transform: uppercase;
-
-  color: #ffffff;
 }
-.text p {
-  font-weight: 400;
+.about_body {
+  padding: 0 0 0 63px;
+}
+.about_body_title {
+  font-size: 36px;
+  line-height: 47px;
+  text-transform: uppercase;
+  margin: 0 0 25px 0;
+}
+.about_body-text {
   font-size: 20px;
   line-height: 206.02%;
-  padding: 30px 0;
+}
+.about_body-text p {
+  margin: 0 0 50px 0;
+}
+
+/* ------ */
+
+.main_footer {
+  text-align: center;
   color: #ffffff;
-  padding-right: 60px;
+  margin: 0 0 65px 0;
+}
+.main_footer-text {
+  margin: 0 0 54px 0;
+  letter-spacing: 0.23em;
+  text-transform: uppercase;
+}
+
+.main_footer-title {
+  font-size: 36px;
+  line-height: 47px;
+  text-transform: uppercase;
+  margin: 65px 0 12px 0;
+}
+.main_footer-email {
+  font-size: 16px;
+  line-height: 158.02%;
+  margin-bottom: 30px;
+}
+
+/* ------ */
+
+.main_footer_image {
+  display: flex;
+  justify-content: space-around;
+}
+.main_footer_img {
+  height: 219px;
+  width: 218px;
+  margin: 0 0 40px 0;
 }
